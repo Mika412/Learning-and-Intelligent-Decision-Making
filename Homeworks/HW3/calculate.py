@@ -84,18 +84,22 @@ currentState = x_initial
 for i in range(10000):
     action = np.random.choice(A, p=policy[X.index(currentState)]) #Choosing an action from the policy
     observation = np.random.choice(Z, p=observation_matrixes[action][X.index(currentState)]) #Getting an observation
+
+    # print(action)
+    # print(observation)
+
     actions += [action]
     observations += [observation]
     trajectory += [currentState]
     currentState = np.random.choice(X, p=action_matrixes[action][X.index(currentState)]) #Updating our current state
 
+# for j in range(10):
+#     print("In state " + trajectory[j] + " did action " + actions[j] + " and observed " + observations[j])
 
 
 def belief_update(belief, action, observation):
     soma = 0
     numerator = np.dot(np.dot(belief, action_matrixes[action]), np.diag(observation_matrixes[action][:,Z.index(observation)]))
-
-    print("----------", numerator)
 
     for x in np.nditer(numerator):
         soma += x
