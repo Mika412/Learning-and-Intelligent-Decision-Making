@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8f0b23-7e11-4178-964b-2ee1203dbdc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW3/calculate.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/calculate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Labs/Lab3/.ipynb_checkpoints/lab3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab3/.ipynb_checkpoints/lab3-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Labs/Lab3/lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab3/lab3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Lab3/lab4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Lab3/lab4.ipynb.bak" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +52,10 @@
     <session id="-1726399145">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="4" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -71,7 +71,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,7 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Data Science/Labs Data Science/Lab 7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Data Science/Project Data Science" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -232,7 +232,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15331928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15331928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
