@@ -1,4 +1,4 @@
-exercise 1a)
+exercise 1a) (formula: slide 15)
 
 Q (4, -b, r) = [ 3.23 + 0.1 * (0 + 0.99*min(...) - 3.23),
                  3.34 + 0.1 * (1 + 0.99*min(...) - 3.34),
@@ -11,7 +11,9 @@ Q (5, -b, r) = [ 3.08 + 0.1 * (0 + 0.99*min(...) - 3.08),
                  3.22 + 0.1 * (1 + 0.99*min(...) - 3.22)]
 
 
-exercise 1b)
+                 
+                 
+exercise 1b) (formula: slide 32)
 
 Q (4, -b, r) = [ 3.23 + 0.1 * (0 + 0.99* Q(2, -b, r) - 3.23),
                  3.34 + 0.1 * (1 + 0.99* Q(7, -b, r) - 3.34),
@@ -22,3 +24,13 @@ Q (5, -b, r) = [ 3.08 + 0.1 * (0 + 0.99* Q(3, -b, r) - 3.08),
                  3:25 + 0.1 * (1 + 0.99* Q(5, -b, r) - 3:25),
                  3:57 + 0.1 * (0 + 0.99* Q(4, -b, r) - 3:57),
                  3.22 + 0.1 * (1 + 0.99* Q(5, -b, r) - 3.22)]
+                 
+                 
+                 
+                 
+                 
+exercise 1c)
+
+"An on-policy agent learns the value based on its current action 'a' derived from the current policy, 
+whereas its off-policy counter part learns it based on the action 'a*' obtained from another policy. 
+In Q-learning, such policy is the greedy policy."
