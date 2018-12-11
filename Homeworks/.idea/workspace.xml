@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea8f0b23-7e11-4178-964b-2ee1203dbdc5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Labs/Lab2/lab-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab2/lab-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labs/Lab5/.ipynb_checkpoints/lab5-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab5/.ipynb_checkpoints/lab5-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Labs/Lab5/lab5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Labs/Lab5/lab5.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +50,7 @@
     <session id="-1726399145">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="4" />
@@ -84,7 +84,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HW5/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="506">
               <caret line="130" column="39" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
               <folding>
                 <element signature="e#22#40#0" expanded="true" />
@@ -284,14 +284,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15331928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33575884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33575884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -333,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HW5/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="506">
           <caret line="130" column="39" selection-start-line="130" selection-start-column="39" selection-end-line="130" selection-end-column="39" />
           <folding>
             <element signature="e#22#40#0" expanded="true" />
